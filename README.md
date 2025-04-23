@@ -1,2 +1,2 @@
 # calculadora
-Python
+calculadora simples usando a lógica
